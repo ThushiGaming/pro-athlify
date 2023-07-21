@@ -8,7 +8,7 @@ const Signupcustomer = () => {
           <h3 className="tp:pt-80 sm:pt-80 md:pt-80 xl:pt-80 2xl:pt-80 text-center text-md">
             <b>Register as a customer</b>
           </h3>
-          <p className="text-center pt-2">
+          <p className="text-center pt-5">
             Your customer account allows you to place orders, manage your watch
             lists and exchange opinions with other Community members.
           </p>

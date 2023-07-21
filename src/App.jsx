@@ -2,12 +2,14 @@
 // import './App.css'
 import Home from "./Home";
 import Login from "./Login";
+import Navigation from "./Navigation";
 import Signupcustomer from "./Signupcustomer";
 
 function App() {
   return (
     <>
-    {/* <Home /> */}
+    <Navigation />
+    <Home />
     <Login />
     <Signupcustomer />
     </>

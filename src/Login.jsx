@@ -84,11 +84,10 @@ const Login = () => {
           </p> */}
           </div>
         </div>
-        
       </div>
 
       <div className="w-1/2 ">
-        <h1 className="text-2xl text-center tp:pt-530 sm:pt-530 md:pt-530 xl:pt-530 2xl:pt-530 ">Register</h1>
+        <h1 className="text-2xl text-center tp:pt-530 sm:pt-530 md:pt-530 xl:pt-530 2xl:pt-530 "> <b>Register</b></h1>
         <div>
           <button
             type="submit"
