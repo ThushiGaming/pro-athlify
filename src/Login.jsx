@@ -84,14 +84,15 @@ const Login = () => {
           </p> */}
           </div>
         </div>
+        
       </div>
 
       <div className="w-1/2 ">
-        <h1 className="text-2xl text-center pt-530">Register</h1>
+        <h1 className="text-2xl text-center tp:pt-530 sm:pt-530 md:pt-530 xl:pt-530 2xl:pt-530 ">Register</h1>
         <div>
           <button
             type="submit"
-            className="flex w-1/2 justify-center rounded-md mt-5 mx-auto bg-indigo-600 px-3 py-1.5 text-sm font-semibold leading-6 text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+            className="flex w-1/2 justify-center rounded-md mt-24 mx-auto bg-indigo-600 px-3 py-1.5 text-sm font-semibold leading-6 text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
           >
             Register as a customer
           </button>
@@ -99,7 +100,7 @@ const Login = () => {
         <div>
           <button
             type="submit"
-            className="flex w-1/2 justify-center rounded-md mt-5 mx-auto bg-indigo-600 px-3 py-1.5 text-sm font-semibold leading-6 text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+            className="flex w-1/2 justify-center rounded-md mt-14 mx-auto bg-indigo-600 px-3 py-1.5 text-sm font-semibold leading-6 text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
           >
             Register as a vendor
           </button>
